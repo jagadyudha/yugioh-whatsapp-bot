@@ -43,14 +43,14 @@ or
 $ yarn add whatsapp-web.js
 ```
 
-Installing `qr-code-terminal`:
+Installing `qrcode-terminal`:
 
 ```bash
-$ npm install qr-code-terminal
+$ npm install qrcode-terminal
 
 or
 
-$ yarn add qr-code-terminal
+$ yarn add qrcode-terminal
 ```
 
 ## How to Run Program
